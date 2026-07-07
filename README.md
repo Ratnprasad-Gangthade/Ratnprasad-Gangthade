@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Ratnprasad-Gangthade/Ratnprasad-Gangthade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-<h1 align="center">Hi 👋, I'm Ratnprasad Gangthade</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Aspiring Generative AI/ML Engineer | Python Developer | Agentic AI/ML Enthusiast
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+I love building AI-powered applications using Large Language Models, RAG, Machine Learning, and NLP.
+</p>
+
+---
+
+## 🚀 About Me
+
+🎓 Final Year Computer Engineering Student (2026)
+
+🤖 Passionate about Generative AI & Large Language Models
+
+📄 Building RAG Applications using LangChain & LangGraph
+
+💻 Strong in Python, Machine Learning, Deep Learning & NLP
+
+🌱 Currently learning AI Agents, MCP & Advanced RAG
+
+🎯 Looking for AI/ML & GenAI Opportunities-
+
