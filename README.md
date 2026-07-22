@@ -10,6 +10,7 @@ I love building AI-powered applications using Large Language Models, RAG, Machin
 
 ## 🚀 About Me
 🎓 Final Year Computer Engineering Student (2026)
+
 🤖 Passionate about Generative AI & Large Language Models
 📄 Building RAG Applications using LangChain & LangGraph
 💻 Strong in Python, Machine Learning, Deep Learning & NLP
