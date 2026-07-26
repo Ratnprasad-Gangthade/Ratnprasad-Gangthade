@@ -1,72 +1,178 @@
 <h1 align="center">Hi 👋, I'm Ratnprasad Gangthade</h1>
+
 <h3 align="center">
-Aspiring Generative AI/ML Engineer | Python Developer | Agentic AI/ML Enthusiast
+AI Engineer | Generative AI | Azure AI | Agentic AI | RAG | LLM Applications
 </h3>
+
 <p align="center">
-I love building AI-powered applications using Large Language Models, RAG, Machine Learning, and NLP.
+Passionate about building enterprise-grade AI applications using Azure AI Foundry, Azure OpenAI, LangChain, RAG, Multi-Agent Systems, and Machine Learning.
 </p>
 
 ---
 
-## 🚀 About Me
-🎓 Final Year Computer Engineering Student (2026)<br>
-🤖 Passionate about Generative AI & Large Language Models<br>
-📄 Building RAG Applications using LangChain & LangGraph<br>
-💻 Strong in Python, Machine Learning, Deep Learning & NLP<br>
-🌱 Currently learning AI Agents, MCP & Advanced RAG<br>
-🎯 Looking for AI/ML & GenAI Opportunities
+# 🚀 About Me
+
+🎓 Computer Engineering Graduate (2026)
+
+🤖 Passionate about Artificial Intelligence, Machine Learning, Generative AI, LLMs and Agentic AI
+
+☁️ Hands-on experience with the Microsoft Azure AI ecosystem including Azure AI Foundry, Azure OpenAI and Azure AI Search
+
+📄 Building enterprise RAG applications and intelligent AI assistants
+
+🧠 Interested in Multi-Agent Systems, Prompt Engineering and AI Workflows
+
+💻 Strong in Python, LangChain, Machine Learning, Deep Learning and NLP
+
+🐳 Experience deploying AI applications using Docker and Streamlit
+
+🌱 Currently learning LangGraph, MCP, AI Evaluation and Production AI Systems
+
+🎯 Open to AI Engineer, Generative AI Engineer and Machine Learning Engineer opportunities
 
 ---
 
-## 🧠 Recent Projects
+# 🧠 Featured Projects
 
-### 🤝 Multi-Agent Research System
-A Streamlit application that coordinates specialized AI agents to turn a research topic into a structured report and an independent quality review. A Search Agent finds relevant sources via Tavily, a Reader Agent scrapes and extracts page content, a Writer Chain compiles a structured report, and a Critic Chain scores the draft and returns feedback — with each stage visible in the UI.
-**Tech Stack:** Python • LangChain • Groq (Llama 3.1) • Tavily Search API • BeautifulSoup • Streamlit
-🔗 [GitHub Repo](https://github.com/Ratnprasad-Gangthade/Multi_Agent_System)
+## ☁️ Azure AI Chatbot
 
----
+An enterprise chatbot built using Azure AI Foundry and Azure OpenAI. The application integrates Azure-hosted GPT models into a conversational interface while maintaining clean architecture and conversation history.
 
-### 📄 RAG Pipeline – PDF Question Answering
-A Streamlit-based Retrieval-Augmented Generation app that lets users upload a PDF and ask questions about it in a chat interface. The document is chunked, embedded using Google Gemini, stored in an in-memory vector index, and retrieved to generate grounded answers.
-**Tech Stack:** Python • LangChain • Google Gemini • Streamlit • Docker
-🔗 [GitHub Repo](https://github.com/Ratnprasad-Gangthade/Rag_project)
+**Tech Stack**
+
+Python • Azure AI Foundry • Azure OpenAI • Streamlit
+
+🔗 https://github.com/Ratnprasad-Gangthade/Azure-Chatbot
 
 ---
 
-### 🚢 Oil Ship Allocation Dashboard
-A manager-facing Streamlit application for crude oil logistics — covering CSV data ingestion and cleaning, intelligent oil-to-ship allocation scoring, delay-risk prediction using historical data, Prophet forecasting and live news-risk analysis, and contract-driven penalty calculation extracted from PDF agreements.
-**Tech Stack:** Python • Streamlit • PostgreSQL • Pandas • Prophet • NewsAPI • pdfplumber
-🔗 [GitHub Repo](https://github.com/Ratnprasad-Gangthade/ship_management)
+## 📄 Enterprise RAG using Azure AI
+
+Built a Retrieval-Augmented Generation application using Azure AI Foundry, Azure OpenAI and Azure AI Search.
+
+Users upload enterprise documents which are indexed using Azure AI Search. Relevant chunks are retrieved through semantic search and Azure OpenAI generates grounded responses with reduced hallucinations.
+
+**Tech Stack**
+
+Azure AI Foundry • Azure OpenAI • Azure AI Search • Python • Streamlit
 
 ---
 
-### 💬 Hey Buddy – Multi-Turn Chatbot
-A conversational Q&A chatbot built with Streamlit, LangChain, and Google Gemini. It maintains multi-turn context by converting session chat history into LangChain messages, using a cleanly separated architecture between the UI layer and the chat service layer.
-**Tech Stack:** Python • LangChain • Google Gemini • Streamlit
-🔗 [GitHub Repo](https://github.com/Ratnprasad-Gangthade/Hey-Buddy)
+## 🤝 Multi-Agent Research System
+
+Designed a collaborative AI workflow consisting of four specialized agents:
+
+- Search Agent
+- Reader Agent
+- Writer Agent
+- Critic Agent
+
+The agents work together to retrieve web information, process content, generate structured research reports and evaluate report quality.
+
+**Tech Stack**
+
+Python • LangChain • Groq • Tavily Search • BeautifulSoup • Streamlit
+
+🔗 https://github.com/Ratnprasad-Gangthade/Multi_Agent_System
 
 ---
 
-## 🎯 Current Focus
-- 🤖 Building production-ready RAG applications
-- 🧠 Exploring AI Agents & Multi-Agent Systems
-- 🔍 Learning LangGraph and Model Context Protocol (MCP)
-- ⚡ Improving LLM evaluation and prompt engineering
-- 🐳 Deploying AI applications with Docker
+## 📄 Contract & Maritime Document Analyzer
+
+Developed a complete Retrieval-Augmented Generation pipeline for contract analysis.
+
+Implemented document chunking, embeddings, semantic retrieval and grounded response generation using LangChain and Google Gemini. Containerized the application using Docker.
+
+**Tech Stack**
+
+Python • LangChain • Google Gemini • FAISS • Streamlit • Docker
+
+🔗 https://github.com/Ratnprasad-Gangthade/Rag_project
 
 ---
 
-## 🎯 Career Goals
-- 🎯 Secure a Software Engineer / AI Engineer role
-- 🚀 Build scalable Generative AI applications
-- 📚 Contribute to open-source AI projects
-- 🌍 Solve real-world business problems using AI
-- 💡 Continuously learn emerging AI technologies
+## 💬 Hey Buddy
+
+A conversational AI assistant supporting multi-turn conversations using LangChain and Google Gemini.
+
+Implemented conversation memory and modular service architecture for scalable chatbot development.
+
+**Tech Stack**
+
+Python • LangChain • Google Gemini • Streamlit
+
+🔗 https://github.com/Ratnprasad-Gangthade/Hey-Buddy
 
 ---
 
-## 📫 Connect with Me
-- 📧 **Email:** ratnprasadg1@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/ratnprasad-gangthade-a43832324/
-- 💻 **GitHub:** https://github.com/Ratnprasad-Gangthade
+## 🚢 AI-based Ship Management System
+
+Developed an intelligent decision-support system for crude oil logistics.
+
+Implemented data preprocessing, ML-based delay prediction, forecasting, news sentiment analysis and contract-based penalty estimation.
+
+**Tech Stack**
+
+Python • Streamlit • PostgreSQL • Pandas • Prophet • NewsAPI • Machine Learning
+
+🔗 https://github.com/Ratnprasad-Gangthade/ship_management
+
+---
+
+# 🎯 Current Focus
+
+- ☁️ Microsoft Azure AI Ecosystem
+- 🤖 Azure AI Foundry & Azure OpenAI
+- 🔍 Azure AI Search & Enterprise RAG
+- 🧠 Agentic AI & Multi-Agent Systems
+- ⚡ Prompt Engineering & LLM Evaluation
+- 🐳 Docker & Production AI Deployment
+- 🔗 LangGraph & Model Context Protocol (MCP)
+
+---
+
+# 🛠️ Technical Skills
+
+### Languages
+
+Python • SQL • Java • C++
+
+### AI & Machine Learning
+
+Machine Learning • Deep Learning • NLP • LLMs • Generative AI • Prompt Engineering • Retrieval-Augmented Generation (RAG)
+
+### Frameworks
+
+LangChain • Streamlit • FastAPI • Scikit-learn
+
+### Azure AI
+
+Azure AI Foundry • Azure OpenAI • Azure AI Search
+
+### Databases
+
+PostgreSQL • FAISS
+
+### Tools
+
+Git • GitHub • Docker • VS Code
+
+---
+
+# 🎯 Career Objective
+
+I enjoy building practical AI applications that solve real-world problems.
+
+My goal is to contribute as an AI Engineer by developing enterprise-grade Generative AI solutions using Azure AI, Large Language Models, Retrieval-Augmented Generation, and Multi-Agent Systems while continuously learning emerging AI technologies.
+
+---
+
+# 📫 Connect with Me
+
+📧 Email: **ratnprasadg1@gmail.com**
+
+💼 LinkedIn:
+https://www.linkedin.com/in/ratnprasad-gangthade-a43832324/
+
+💻 GitHub:
+https://github.com/Ratnprasad-Gangthade
