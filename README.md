@@ -5,7 +5,7 @@ AI Engineer | Generative AI | Azure AI | Agentic AI | RAG | LLM Applications
 </h3>
 
 <p align="center">
-Passionate about building enterprise-grade AI applications using Azure AI Foundry, Azure OpenAI, LangChain, RAG, Multi-Agent Systems, and Machine Learning.
+Passionate about building enterprise-grade AI applications using Azure AI Foundry, Azure OpenAI, LangChain, LangGraph, RAG, Multi-Agent Systems, and Machine Learning.
 </p>
 
 ---
@@ -22,11 +22,13 @@ Passionate about building enterprise-grade AI applications using Azure AI Foundr
 
 🧠 Interested in Multi-Agent Systems, Prompt Engineering and AI Workflows
 
+🔗 Hands-on with LangGraph — sequential, parallel, and conditional workflow design
+
 💻 Strong in Python, LangChain, Machine Learning, Deep Learning and NLP
 
 🐳 Experience deploying AI applications using Docker and Streamlit
 
-🌱 Currently learning LangGraph, MCP, AI Evaluation and Production AI Systems
+🌱 Currently learning MCP, AI Evaluation and Production AI Systems
 
 🎯 Open to AI Engineer, Generative AI Engineer and Machine Learning Engineer opportunities
 
@@ -119,6 +121,54 @@ Python • Streamlit • PostgreSQL • Pandas • Prophet • NewsAPI • Machi
 
 ---
 
+## 🎓 College Assistant — LangGraph Conditional Workflow with RAG
+
+Built an intelligent college-support assistant combining LangGraph conditional routing with Retrieval-Augmented Generation. The graph classifies each student query as academic, fee-related, or general, then routes it to the right retrieval path over PDF sources, returning personalized answers based on the student's programme and fee category.
+
+**Tech Stack**
+
+Python • LangGraph • LangChain • Groq LLM • FAISS • Streamlit
+
+🔗 https://github.com/Ratnprasad-Gangthade/LangGraph--Conditional_workflow
+
+---
+
+## 🔀 LangGraph Parallel Workflows
+
+A LangGraph playground exploring parallel branch execution and state merging — including an LLM-based essay evaluator scoring multiple criteria concurrently, a reducer-based safety-analysis pipeline, and a non-LLM parallel workflow for computing cricket statistics.
+
+**Tech Stack**
+
+Python • LangGraph • LangChain • Groq
+
+🔗 https://github.com/Ratnprasad-Gangthade/LangGraph--Parallel_workflows
+
+---
+
+## ➡️ LangGraph Sequential Workflow
+
+A multi-stage LangGraph pipeline that edits raw text, converts it into an engaging script, and translates it into natural Hinglish — built to understand States, Nodes, Edges, and sequential graph execution, wrapped in a multi-turn Streamlit chat interface.
+
+**Tech Stack**
+
+Python • LangGraph • LangChain • Groq • Streamlit
+
+🔗 https://github.com/Ratnprasad-Gangthade/LangGraph--Sequential_workflow
+
+---
+
+## 🎬 Pydantic Movie Extractor
+
+A structured-output extraction tool that converts unstructured movie descriptions into clean, typed JSON using LangChain's PydanticOutputParser — defining a schema, auto-generating format instructions, and guaranteeing schema-conformant LLM output.
+
+**Tech Stack**
+
+Python • LangChain • Pydantic • Groq • Streamlit
+
+🔗 https://github.com/Ratnprasad-Gangthade/Pydantic_Movie_Extractor
+
+---
+
 # 🎯 Current Focus
 
 - ☁️ Microsoft Azure AI Ecosystem
@@ -126,8 +176,9 @@ Python • Streamlit • PostgreSQL • Pandas • Prophet • NewsAPI • Machi
 - 🔍 Azure AI Search & Enterprise RAG
 - 🧠 Agentic AI & Multi-Agent Systems
 - ⚡ Prompt Engineering & LLM Evaluation
+- 🔗 LangGraph Workflow Design (Sequential, Parallel, Conditional)
 - 🐳 Docker & Production AI Deployment
-- 🔗 LangGraph & Model Context Protocol (MCP)
+- 🌐 Model Context Protocol (MCP)
 
 ---
 
@@ -135,15 +186,15 @@ Python • Streamlit • PostgreSQL • Pandas • Prophet • NewsAPI • Machi
 
 ### Languages
 
-Python • SQL • Java • C++
+Python • SQL 
 
 ### AI & Machine Learning
 
 Machine Learning • Deep Learning • NLP • LLMs • Generative AI • Prompt Engineering • Retrieval-Augmented Generation (RAG)
 
-### Frameworks
+### Frameworks & Orchestration
 
-LangChain • Streamlit • FastAPI • Scikit-learn
+LangChain • LangGraph • Streamlit • FastAPI • Scikit-learn
 
 ### Azure AI
 
@@ -163,7 +214,7 @@ Git • GitHub • Docker • VS Code
 
 I enjoy building practical AI applications that solve real-world problems.
 
-My goal is to contribute as an AI Engineer by developing enterprise-grade Generative AI solutions using Azure AI, Large Language Models, Retrieval-Augmented Generation, and Multi-Agent Systems while continuously learning emerging AI technologies.
+My goal is to contribute as an AI Engineer by developing enterprise-grade Generative AI solutions using Azure AI, Large Language Models, Retrieval-Augmented Generation, Agentic Workflows with LangGraph, and Multi-Agent Systems while continuously learning emerging AI technologies.
 
 ---
 
