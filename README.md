@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ratnprasad Gangthade</h1>
 
 <h3 align="center">
-AI Engineer | Generative AI | Agentic AI | LLM Evaluation | AI Security | RAG
+AI Engineer Intern @ Technosy Software Pvt. Ltd. | Generative AI | Agentic AI | RAG | LLM Evaluation | AI Security
 </h3>
 
 <p align="center">
-Building practical and enterprise-oriented AI applications with Generative AI, 
-RAG, Agentic AI, LLM Evaluation, AI Guardrails, LangChain, LangGraph, LangSmith and Azure AI.
+Building practical AI applications with LLMs, RAG, Agentic AI, LangChain, LangGraph, LangSmith, AI Guardrails and Azure AI.
 </p>
 
 ---
@@ -15,176 +14,29 @@ RAG, Agentic AI, LLM Evaluation, AI Guardrails, LangChain, LangGraph, LangSmith 
 
 🎓 Computer Engineering Graduate (2026)
 
-🤖 Passionate about Artificial Intelligence, Generative AI, LLMs, Agentic AI and Machine Learning
+💼 **AI Engineer Intern at Technosy Software Pvt. Ltd.**
 
-🧠 Building practical LLM applications using LangChain, LangGraph and modern AI frameworks
+🤖 Working on Generative AI, LLM applications, RAG and Agentic AI
 
-🔍 Hands-on experience with Retrieval-Augmented Generation (RAG), semantic search, embeddings and vector databases
+🔗 Hands-on with LangChain, LangGraph and LangSmith
 
-📊 Currently focusing on **LLM Evaluation, RAG Evaluation, LangSmith tracing and AI observability**
+📊 Exploring LLM & RAG Evaluation, AI Observability and AI Testing
 
-🛡️ Exploring **AI Security, LLM Security, Guardrails, Prompt Injection, PII Protection and Responsible AI**
+🛡️ Learning AI Security, LLM Security and Guardrails
 
-🔗 Hands-on experience designing **Sequential, Parallel and Conditional LangGraph workflows**
+☁️ Exploring Azure AI Foundry, Azure OpenAI and Azure AI Search
 
-🤝 Interested in Multi-Agent Systems, AI Agents and Agentic AI architectures
-
-☁️ Exploring the Microsoft Azure AI ecosystem including Azure AI Foundry, Azure OpenAI and Azure AI Search
-
-🐳 Experience deploying AI applications using Docker and Streamlit
-
-🌐 Exploring Model Context Protocol (MCP) and modern AI application architectures
+🐳 Experience with Docker, Streamlit and AI application deployment
 
 🎤 Delivered a **5-Day Generative AI Workshop at AISSMS Institute of Information Technology, Pune**
 
-📚 Experienced in explaining and demonstrating Generative AI concepts including LLMs, LangChain, Multi-Turn Chatbots and RAG
-
-🎯 Open to opportunities in AI Engineering, Generative AI, Agentic AI, AI Security, LLM Evaluation and Machine Learning
+🎯 Interested in AI Engineering, Generative AI, Agentic AI, AI Security and LLM Evaluation
 
 ---
 
-# 🧠 Core AI Expertise
+# 💡 Current Focus
 
-### 🤖 Generative AI
-
-- Large Language Models (LLMs)
-- Generative AI Applications
-- Prompt Engineering
-- Structured Output
-- Multi-Turn Conversational AI
-- AI Agents
-- Agentic AI
-- Multi-Agent Systems
-
-### 🔍 Retrieval-Augmented Generation
-
-- Basic RAG
-- Advanced RAG
-- Document Ingestion
-- Text Chunking
-- Embeddings
-- Semantic Search
-- Vector Databases
-- FAISS
-- Chroma
-- Azure AI Search
-- Grounded Generation
-- Enterprise Document Q&A
-
-### 🔗 AI Orchestration
-
-- LangChain
-- LangGraph
-- Sequential Workflows
-- Parallel Workflows
-- Conditional Workflows
-- State Management
-- Reducers
-- Agent Routing
-- Multi-Agent Coordination
-
----
-
-# 📊 LLM Evaluation & Observability
-
-A major area of my current learning and development is **evaluating the quality and reliability of LLM-powered applications**.
-
-### 🔬 LLM Evaluation
-
-- RAG Evaluation
-- Retrieval Evaluation
-- Generation Evaluation
-- End-to-End RAG Evaluation
-- Faithfulness
-- Answer Relevancy
-- Contextual Relevancy
-- Contextual Recall
-- Contextual Precision
-- Hallucination Detection
-- Groundedness
-- LLM-as-a-Judge
-- Evaluation Datasets
-- Golden Datasets
-- Evaluation Thresholds
-
-### 🔎 LangSmith
-
-- LLM Tracing
-- LangGraph Tracing
-- Run Tracking
-- Metadata
-- Tags
-- Evaluation Workflows
-- Debugging LLM Applications
-- AI Application Observability
-
-### 🧪 Evaluation Tools
-
-- LangSmith
-- DeepEval
-- Custom Evaluation Pipelines
-- RAG Evaluation Datasets
-
-My goal is to build AI systems that are not only functional but also **measurable, observable and reliable**.
-
----
-
-# 🛡️ AI Security & Guardrails
-
-I am actively developing my knowledge in **AI Security and LLM Safety** to understand how AI applications can be made safer and more controlled.
-
-### 🔐 AI Security
-
-- LLM Security Fundamentals
-- Prompt Injection Awareness
-- Jailbreak Awareness
-- Sensitive Information Protection
-- PII Protection
-- Data Leakage Prevention
-- Secure RAG
-- Input Validation
-- Output Validation
-- AI Application Security
-
-### 🛡️ Guardrails
-
-Exploring different approaches for controlling LLM applications:
-
-- Deterministic Guardrails
-- Model-Based Guardrails
-- Input Guardrails
-- Output Guardrails
-- PII Detection
-- PII Redaction
-- PII Masking
-- API Key Protection
-- Unsafe Input Detection
-- Content Filtering
-- Policy Enforcement
-- Structured Output Validation
-
-### 🎯 Responsible AI
-
-- AI Safety
-- Responsible AI
-- Reliability
-- Grounded Responses
-- Human Oversight
-- Risk-Aware AI Design
-
----
-
-# ☁️ Azure AI
-
-Currently building knowledge and hands-on experience with the Microsoft Azure AI ecosystem.
-
-- Azure AI Foundry
-- Azure OpenAI
-- Azure AI Search
-- Enterprise RAG
-- Semantic Search
-- Azure-hosted LLM Applications
-- AI Application Architecture
+**Generative AI** • **RAG** • **Agentic AI** • **LLM Evaluation** • **AI Security** • **Guardrails** • **LangSmith** • **Azure AI**
 
 ---
 
@@ -196,13 +48,13 @@ A hands-on repository exploring the development, tracing and evaluation of LLM a
 
 The project progresses through different LLM application patterns including:
 
-- Basic LLM calls
-- Sequential chains
-- RAG pipelines
-- AI Agents
-- LangGraph workflows
-- LLM evaluation
-- LangSmith tracing
+* Basic LLM calls
+* Sequential chains
+* RAG pipelines
+* AI Agents
+* LangGraph workflows
+* LLM evaluation
+* LangSmith tracing
 
 One of the workflows implements a LangGraph-based essay evaluation system where multiple evaluation dimensions such as language, analysis and clarity are evaluated in parallel and then combined into an overall evaluation.
 
@@ -210,7 +62,7 @@ One of the workflows implements a LangGraph-based essay evaluation system where 
 
 `Python` • `LangChain` • `LangGraph` • `LangSmith` • `OpenAI` • `Pydantic`
 
-🔗 **GitHub:**  
+🔗 **GitHub:**
 https://github.com/Ratnprasad-Gangthade/langsmith_testing
 
 ---
@@ -221,23 +73,23 @@ Built a local RAG evaluation pipeline focused on measuring the quality of retrie
 
 The system:
 
-- Processes VTT lecture transcripts
-- Performs document cleaning and chunking
-- Generates embeddings
-- Stores vectors using Chroma
-- Retrieves relevant documents
-- Applies cross-encoder reranking
-- Generates grounded answers using an LLM
-- Evaluates retrieval and generation quality using DeepEval
+* Processes VTT lecture transcripts
+* Performs document cleaning and chunking
+* Generates embeddings
+* Stores vectors using Chroma
+* Retrieves relevant documents
+* Applies cross-encoder reranking
+* Generates grounded answers using an LLM
+* Evaluates retrieval and generation quality using DeepEval
 
 Evaluation includes:
 
-- Contextual Relevancy
-- Contextual Recall
-- Contextual Precision
-- Faithfulness
-- Answer Relevancy
-- End-to-End RAG Evaluation
+* Contextual Relevancy
+* Contextual Recall
+* Contextual Precision
+* Faithfulness
+* Answer Relevancy
+* End-to-End RAG Evaluation
 
 The project also uses curated evaluation datasets and golden queries for measuring application quality.
 
@@ -245,7 +97,7 @@ The project also uses curated evaluation datasets and golden queries for measuri
 
 `Python` • `LangChain` • `Chroma` • `HuggingFace` • `Groq` • `DeepEval` • `RAG`
 
-🔗 **GitHub:**  
+🔗 **GitHub:**
 https://github.com/Ratnprasad-Gangthade/Rag_Eval
 
 ---
@@ -258,14 +110,14 @@ The repository is focused on understanding the evolution of LangChain and keepin
 
 Topics include:
 
-- Updated LangChain APIs
-- LLM Application Development
-- Modern Chain Patterns
-- LangChain Components
-- LLM Integrations
-- Prompting
-- Retrieval
-- Agent-based Development
+* Updated LangChain APIs
+* LLM Application Development
+* Modern Chain Patterns
+* LangChain Components
+* LLM Integrations
+* Prompting
+* Retrieval
+* Agent-based Development
 
 This repository represents my continuous learning and effort to stay updated with the rapidly evolving LLM application ecosystem.
 
@@ -273,7 +125,7 @@ This repository represents my continuous learning and effort to stay updated wit
 
 `Python` • `LangChain` • `LLMs`
 
-🔗 **GitHub:**  
+🔗 **GitHub:**
 https://github.com/Ratnprasad-Gangthade/Updates_Langchain
 
 ---
@@ -296,19 +148,19 @@ Uses an LLM to determine whether user input should be classified as safe or unsa
 
 Uses middleware to detect and protect sensitive information such as:
 
-- Email addresses
-- Credit card numbers
-- API keys
-- IP addresses
-- MAC addresses
-- URLs
+* Email addresses
+* Credit card numbers
+* API keys
+* IP addresses
+* MAC addresses
+* URLs
 
 Different protection strategies are demonstrated:
 
-- Redact
-- Mask
-- Hash
-- Block
+* Redact
+* Mask
+* Hash
+* Block
 
 The project provides a practical foundation for understanding **LLM security, AI safety and controlled AI application behavior**.
 
@@ -316,7 +168,7 @@ The project provides a practical foundation for understanding **LLM security, AI
 
 `Python` • `Streamlit` • `LangChain` • `LangGraph` • `Groq` • `PII Middleware` • `AI Guardrails`
 
-🔗 **GitHub:**  
+🔗 **GitHub:**
 https://github.com/Ratnprasad-Gangthade/Gardrails
 
 ---
@@ -325,10 +177,10 @@ https://github.com/Ratnprasad-Gangthade/Gardrails
 
 Designed a collaborative AI workflow consisting of four specialized agents:
 
-- 🔎 Search Agent
-- 📖 Reader Agent
-- ✍️ Writer Agent
-- 🔍 Critic Agent
+* 🔎 Search Agent
+* 📖 Reader Agent
+* ✍️ Writer Agent
+* 🔍 Critic Agent
 
 The agents collaborate to:
 
@@ -342,7 +194,7 @@ The agents collaborate to:
 
 `Python` • `LangChain` • `LangGraph` • `Groq` • `Tavily` • `BeautifulSoup` • `Streamlit`
 
-🔗 **GitHub:**  
+🔗 **GitHub:**
 https://github.com/Ratnprasad-Gangthade/Multi_Agent_System
 
 ---
@@ -353,13 +205,13 @@ Developed a Retrieval-Augmented Generation pipeline for contract and maritime do
 
 Implemented:
 
-- PDF document processing
-- Document chunking
-- Embeddings
-- Semantic retrieval
-- Vector search
-- Grounded response generation
-- Contract clause analysis
+* PDF document processing
+* Document chunking
+* Embeddings
+* Semantic retrieval
+* Vector search
+* Grounded response generation
+* Contract clause analysis
 
 The application was containerized using Docker for easier deployment.
 
@@ -367,7 +219,7 @@ The application was containerized using Docker for easier deployment.
 
 `Python` • `LangChain` • `Google Gemini` • `FAISS` • `Streamlit` • `Docker`
 
-🔗 **GitHub:**  
+🔗 **GitHub:**
 https://github.com/Ratnprasad-Gangthade/Rag_project
 
 ---
@@ -380,21 +232,21 @@ The system combines Machine Learning, forecasting, data analysis and AI-assisted
 
 Implemented:
 
-- Data preprocessing
-- Ship allocation
-- ML-based delay prediction
-- Time-series forecasting
-- News-based geopolitical risk analysis
-- Contract analysis
-- Penalty estimation
-- PostgreSQL data management
-- Interactive Streamlit dashboard
+* Data preprocessing
+* Ship allocation
+* ML-based delay prediction
+* Time-series forecasting
+* News-based geopolitical risk analysis
+* Contract analysis
+* Penalty estimation
+* PostgreSQL data management
+* Interactive Streamlit dashboard
 
 **Tech Stack**
 
 `Python` • `Streamlit` • `PostgreSQL` • `Pandas` • `Prophet` • `NewsAPI` • `Machine Learning`
 
-🔗 **GitHub:**  
+🔗 **GitHub:**
 https://github.com/Ratnprasad-Gangthade/ship_management
 
 ---
@@ -407,9 +259,9 @@ The system classifies student queries into different categories and routes them 
 
 Supported categories include:
 
-- Academic
-- Fee-related
-- General
+* Academic
+* Fee-related
+* General
 
 The assistant retrieves relevant information from PDF knowledge sources and generates contextual responses.
 
@@ -417,7 +269,7 @@ The assistant retrieves relevant information from PDF knowledge sources and gene
 
 `Python` • `LangGraph` • `LangChain` • `Groq` • `FAISS` • `Streamlit`
 
-🔗 **GitHub:**  
+🔗 **GitHub:**
 https://github.com/Ratnprasad-Gangthade/LangGraph--Conditional_workflow
 
 ---
@@ -430,85 +282,20 @@ Delivered a **5-Day Generative AI Workshop** organized by the Department of Arti
 
 The workshop covered:
 
-- 🤖 LLM & AI Fundamentals
-- 🔗 LangChain
-- 💬 Multi-Turn Chatbots
-- 🔍 Retrieval-Augmented Generation
-- 📚 Basic RAG
-- 🚀 Advanced RAG
-- 🧠 Practical Generative AI Application Development
-
-The workshop gave me an opportunity to share practical knowledge with students while strengthening my own understanding through discussions, questions and hands-on learning.
-
-### 📸 Workshop Highlights
+* 🤖 LLM & AI Fundamentals
+* 🔗 LangChain
+* 💬 Multi-Turn Chatbots
+* 🔍 Retrieval-Augmented Generation
+* 📚 Basic RAG
+* 🚀 Advanced RAG
+* 🧠 Practical Generative AI Application Development
 
 <img src="./assets/aissms-workshop.jpg" width="700">
 
 **5-Day Generative AI Workshop — AISSMS IOIT, Pune**
 
-🔗 **View the LinkedIn Post:**  
+🔗 **View the LinkedIn Post:**
 https://lnkd.in/p/dk4VEQmJ
-
----
-
-# 🎯 Current Learning Focus
-
-### 🤖 Generative AI
-
-- LLM Applications
-- Prompt Engineering
-- RAG
-- Advanced RAG
-- AI Agents
-- Agentic AI
-- Multi-Agent Systems
-
-### 📊 LLM Evaluation
-
-- LangSmith
-- DeepEval
-- RAG Evaluation
-- LLM Evaluation
-- Golden Datasets
-- Evaluation Metrics
-- LLM-as-a-Judge
-- Hallucination Detection
-- Faithfulness
-- Groundedness
-
-### 🛡️ AI Security
-
-- LLM Security
-- AI Guardrails
-- Prompt Injection
-- Jailbreak Awareness
-- PII Protection
-- Data Leakage Prevention
-- Secure RAG
-- Input / Output Validation
-
-### 🔗 AI Engineering
-
-- LangChain
-- LangGraph
-- LangSmith
-- FastAPI
-- Streamlit
-- Docker
-
-### ☁️ Cloud AI
-
-- Azure AI Foundry
-- Azure OpenAI
-- Azure AI Search
-
-### 🌐 Emerging AI Technologies
-
-- Model Context Protocol (MCP)
-- AI Agents
-- AI Observability
-- Production AI Systems
-- Responsible AI
 
 ---
 
@@ -518,17 +305,13 @@ https://lnkd.in/p/dk4VEQmJ
 
 `Python` • `SQL`
 
-### AI & Machine Learning
-
-`Machine Learning` • `Deep Learning` • `NLP` • `LLMs` • `Generative AI`
-
 ### Generative AI
 
-`RAG` • `Advanced RAG` • `AI Agents` • `Agentic AI` • `Multi-Agent Systems`
+`LLMs` • `Generative AI` • `Prompt Engineering` • `RAG` • `Advanced RAG` • `Agentic AI` • `Multi-Agent Systems`
 
-### LLM Frameworks
+### AI Frameworks
 
-`LangChain` • `LangGraph` • `LangSmith`
+`LangChain` • `LangGraph` • `LangSmith` • `Streamlit` • `FastAPI`
 
 ### LLM Evaluation
 
@@ -536,7 +319,7 @@ https://lnkd.in/p/dk4VEQmJ
 
 ### AI Security
 
-`AI Guardrails` • `LLM Security` • `Prompt Injection Awareness` • `PII Protection` • `Input Validation` • `Output Validation` • `Responsible AI`
+`AI Guardrails` • `LLM Security` • `Prompt Injection Awareness` • `PII Protection` • `Input Validation` • `Output Validation`
 
 ### Azure AI
 
@@ -546,10 +329,6 @@ https://lnkd.in/p/dk4VEQmJ
 
 `PostgreSQL` • `FAISS` • `Chroma`
 
-### Frameworks & APIs
-
-`Streamlit` • `FastAPI` • `Scikit-learn`
-
 ### Tools
 
 `Git` • `GitHub` • `Docker` • `VS Code`
@@ -558,47 +337,69 @@ https://lnkd.in/p/dk4VEQmJ
 
 # 💼 Roles I Can Contribute To
 
-I am interested in opportunities across multiple AI-focused roles:
-
-- 🤖 AI Engineer
-- ✨ Generative AI Developer
-- 🧠 GenAI Engineer
-- 🔗 Agentic AI Developer
-- 🤝 AI Agent Developer
-- 🔍 RAG Engineer
-- 📊 LLM Evaluation Engineer
-- 🛡️ AI Security / LLM Security
-- ☁️ Azure AI Engineer
-- ⚙️ LLM Application Developer
-- 🔬 Applied AI Engineer
-- 🧠 Machine Learning Engineer
-- 🚀 AI Automation Developer
+* 🤖 AI Engineer
+* ✨ Generative AI Developer
+* 🧠 GenAI Engineer
+* 🔗 Agentic AI Developer
+* 🤝 AI Agent Developer
+* 🔍 RAG Engineer
+* 📊 LLM Evaluation Engineer
+* 🛡️ AI Security / LLM Security
+* ☁️ Azure AI Engineer
+* ⚙️ LLM Application Developer
+* 🔬 Applied AI Engineer
+* 🧠 Machine Learning Engineer
+* 🚀 AI Automation Developer
 
 ---
 
-# 🎯 Career Objective
-
-I enjoy building practical AI applications that solve real-world problems.
-
-My current focus is moving beyond basic LLM applications toward building **reliable, secure, observable and measurable AI systems**.
-
-I aim to combine:
+# 📈 My AI Journey
 
 ```text
-Generative AI
-      +
-RAG
-      +
-Agentic AI
-      +
+Machine Learning
+        ↓
+Deep Learning & NLP
+        ↓
+Generative AI & LLMs
+        ↓
+LangChain
+        ↓
+RAG & Vector Search
+        ↓
+LangGraph & Agentic AI
+        ↓
 Multi-Agent Systems
-      +
-LLM Evaluation
-      +
-AI Security
-      +
-Guardrails
-      +
-AI Observability
-      +
-Azure AI
+        ↓
+LangSmith & AI Observability
+        ↓
+LLM & RAG Evaluation
+        ↓
+AI Guardrails & Security
+        ↓
+Production-Oriented AI Systems
+```
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** [ratnprasadg1@gmail.com](mailto:ratnprasadg1@gmail.com)
+
+💼 **LinkedIn:**
+https://www.linkedin.com/in/ratnprasad-gangthade-a43832324/
+
+💻 **GitHub:**
+https://github.com/Ratnprasad-Gangthade
+
+🔗 **Workshop Post:**
+https://lnkd.in/p/dk4VEQmJ
+
+---
+
+<h3 align="center">
+🚀 Build • Evaluate • Secure • Deploy AI
+</h3>
+
+<p align="center">
+Always learning. Always building. Always exploring the next generation of AI.
+</p>
